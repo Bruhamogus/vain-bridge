@@ -1,0 +1,15 @@
+{
+  "name": "vain-bridge",
+  "version": "1.0.0",
+  "description": "Bridge App für USDC zu PAXG",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "web3": "^1.7.4"
+  },
+  "author": "",
+  "license": "ISC"
+}
